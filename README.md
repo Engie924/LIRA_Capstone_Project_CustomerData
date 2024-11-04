@@ -162,6 +162,8 @@ FROM[dbo].[LITA CUSTOMER DATA];
 
 **Excel Dashboard Overview**
 
+![Customer Data Pivot](https://github.com/user-attachments/assets/48153f54-c382-4235-8ee7-97cc2fea4d3a)
+
 **Power BI Dashboard**
 
 This repository contains the code, data, and visualizations for a customer segmentation project. The goal was to understand customer behavior, identify trends, and create a Power BI dashboard to present the findings. By analyzing customer data using Excel, SQL, and Power BI, i was able to gain valuable insights into subscription patterns, churn rates, and revenue trends. The dashboard provides a comprehensive overview of customer segments, allowing for data-driven decision-making and targeted marketing strategies.
