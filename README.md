@@ -19,6 +19,8 @@ Documentation of my Incubator Hub Capstone Project in Data Analysis on Customer 
 
 [Dashboard Visualization](#dashboard-visualization)
 
+[Business Recommendations](#business-recommendations)
+
 ### Project Overview
 ---
 
@@ -168,8 +170,23 @@ FROM[dbo].[LITA CUSTOMER DATA];
 
 ![Power BI Visuals](https://github.com/user-attachments/assets/9b6015e8-cbe6-4be8-9702-2b97b53fd619)
 
-![Power BI Visuals (2)](https://github.com/user-attachments/assets/c3022a54-5ecf-4ba3-8612-ef80a165cbdd)
 
+![Power BI Visuals1](https://github.com/user-attachments/assets/da48273a-0c88-437d-aa23-3ef918a74c82)
+
+### Business Recommendations
+---
+
+Insights and Recommendations:
+
+Based on the analysis, i identified key insights and below are the recommendations i will make:
+
+- Identify high-value customer segments: Focus on segments with high customer life span value and low churn rates.
+- Improve customer retention: Implement targeted retention strategies for customers nearing the end of their subscription.
+- Optimize pricing and packaging: Analyze the impact of different pricing models and subscription packages on customer behavior.
+- Enhance customer experience: Invest in customer support and improve the overall customer experience to reduce churn.
+- Analyze regional performance: Identify regions with high potential and focus on growth strategies in those areas.
+- Track key metrics: Continuously monitor key metrics like churn rate, Average revenue per user, and customer satisfaction to measure performance.
+By leveraging the insights gained from the analysis and the interactive Power BI dashboard, data-driven decisions to improve customer retention, increase revenue, and drive business growth can be made.
 
 
 This repository contains the code, data, and visualizations for a customer segmentation project. The goal was to understand customer behavior, identify trends, and create a Power BI dashboard to present the findings. By analyzing customer data using Excel, SQL, and Power BI, i was able to gain valuable insights into subscription patterns, churn rates, and revenue trends. The dashboard provides a comprehensive overview of customer segments, allowing for data-driven decision-making and targeted marketing strategies.
